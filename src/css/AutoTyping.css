@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+div{
+width: 100%;
+display: flex;
+justify-content: center;
+
+ /* margin-left: 200px; */
+align-items: center;
+}
+h1{
+    font-size: 70px!important;
+    color: white;
+}
+span{
+    color: yellow;
+}
