@@ -22,3 +22,7 @@ To set up the project locally, follow these steps:
    Open your terminal or command prompt and run the following command:
    ```bash
    git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+npm install
+npm run dev
+
