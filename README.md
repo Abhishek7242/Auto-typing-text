@@ -23,6 +23,6 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-npm install
-npm run dev
+   npm install
+   npm run dev
 
